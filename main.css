@@ -1,0 +1,23 @@
+ body {
+      background-color: #f4f6f9;
+    }
+    .card {
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+      border-radius: 1rem;
+    }
+    #resultado {
+      font-weight: bold;
+      color: #006400;
+      font-size: 1.3em;
+    }
+    #procedimiento {
+      font-family: monospace;
+      white-space: pre-line;
+      background: #fff;
+      border-radius: .5rem;
+      padding: 1rem;
+    }
+    table {
+      background-color: #fff;
+      border-radius: .5rem;
+    }
